@@ -16,8 +16,7 @@ OrderDetail
 ![alt text](table2.png)
 
 ## PowerBI dashboard
-[text](<PBI Dashboard.pdf>)
-
+![alt text](<PBI Dashboard.pdf>)
 
 ## Mualliflar
 - Muhammadjon Mahmudov
