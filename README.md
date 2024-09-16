@@ -11,7 +11,7 @@ OrderHistory:
 
 ![alt text](table1.png)
 
-OrderDetail
+OrderDetail:
 
 ![alt text](table2.png)
 
