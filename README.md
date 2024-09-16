@@ -22,6 +22,14 @@ OrderDetail
 
 *PDF faylini qolgan fayllar bilan yuklab qo'yganman*
 
+### Mahsulotlar analizi
+Bu qismda mahsulotlarni kategoriyalar va hududlar bo'yicha sotilishi va qaysi mahsulot bizga ko'p daromad olib kelyapti va qaysilari eng ko'p sotilganini ko'rishimiz mumkin.
+### Mijozlar analizi
+Bu yerda esa eng ko'p xarid qiluvchi va eng daromad olib keluvchi mijozlar hududlar kesimida keltirilgan.
+### VAQT bo'yicha analiz
+Vaqt bo'yicha analiz qismida eng ko'p daromad va savdolar qaysi yilda va qaysi oyga to'g'ri kelayotgani ko'rsatib berilgan
+
+
 ## Mualliflar
 - Muhammadjon Mahmudov
 - Jahongir Sapayev
