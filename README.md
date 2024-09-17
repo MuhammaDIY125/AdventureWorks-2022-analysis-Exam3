@@ -1,6 +1,6 @@
 # AdventureWorks2022 analizi
 
-<video controls src="v.mp4" title="Title"></video>
+![alt text](v.gif)
 
 ## Nima xaqida?
 Najot Ta'limni Data Scince guruhida 3 oy imtihoni kuni ham keldi. Imtiohon proyekt ximoya qilishdan iborat bo'lib shu oy SQL va PowerBi larda urgangan narsalarimizni ko'rsatishda iborat edi. Ma'lumot sifatida bizga ko'pchilik ishitkan AdventureWorks (2022v) datsbase berilgandi. Imtihonda  kishigacha komanda qilish mumkinligi uchun man va mani guruhdoshim Jahongir aka bilan guruh tuzdik va 5 kun ichida bor bilimimizi ko'rsatishga kirishdik.
@@ -26,8 +26,10 @@ OrderDetail:
 
 ### Mahsulotlar analizi
 Bu qismda mahsulotlarni kategoriyalar va hududlar bo'yicha sotilishi va qaysi mahsulot bizga ko'p daromad olib kelyapti va qaysilari eng ko'p sotilganini ko'rishimiz mumkin.
+
 ### Mijozlar analizi
 Bu yerda esa eng ko'p xarid qiluvchi va eng daromad olib keluvchi mijozlar hududlar kesimida keltirilgan.
+
 ### VAQT bo'yicha analiz
 Vaqt bo'yicha analiz qismida eng ko'p daromad va savdolar qaysi yilda va qaysi oyga to'g'ri kelayotgani ko'rsatib berilgan
 
