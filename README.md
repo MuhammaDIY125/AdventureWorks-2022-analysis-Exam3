@@ -18,11 +18,6 @@ OrderDetail:
 ![alt text](table2.png)
 
 ## PowerBI dashboard
-![alt text](page1.png)
-![alt text](page2.png)
-![alt text](page3.png)
-
-*PDF faylini qolgan fayllar bilan yuklab qo'yganman*
 
 ### Mahsulotlar analizi
 Bu qismda mahsulotlarni kategoriyalar va hududlar bo'yicha sotilishi va qaysi mahsulot bizga ko'p daromad olib kelyapti va qaysilari eng ko'p sotilganini ko'rishimiz mumkin.
