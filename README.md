@@ -1,6 +1,6 @@
 # AdventureWorks2022 analizi
 
-![alt text](g.gif)
+![alt text](images/g.gif)
 
 ## Nima xaqida?
 Najot Ta'limni Data Scince guruhida 3 oy imtihoni kuni ham keldi. Imtiohon proyekt ximoya qilishdan iborat bo'lib shu oy SQL va PowerBi larda urgangan narsalarimizni ko'rsatishda iborat edi. Ma'lumot sifatida bizga ko'pchilik ishitkan AdventureWorks (2022v) datsbase berilgandi. Imtihonda  kishigacha komanda qilish mumkinligi uchun man va mani guruhdoshim Jahongir aka bilan guruh tuzdik va 5 kun ichida bor bilimimizi ko'rsatishga kirishdik.
@@ -11,11 +11,11 @@ Bizda birinchi "tugatdik" degan xayol 1ta katta table yaratganimizda bo'ldi, lek
 
 OrderHistory:
 
-![alt text](table1.png)
+![alt text](images/table1.png)
 
 OrderDetail:
 
-![alt text](table2.png)
+![alt text](images/table2.png)
 
 ## PowerBI dashboard
 
