@@ -32,7 +32,7 @@ Bu yerda esa eng ko'p xarid qiluvchi va eng daromad olib keluvchi mijozlar hudud
 ### VAQT bo'yicha analiz
 Vaqt bo'yicha analiz qismida eng ko'p daromad va savdolar qaysi yilda va qaysi oyga to'g'ri kelayotgani ko'rsatib berilgan.
 
-## proyektdan olgan foyda
+## Proyektdan olgan foyda
 Avvalam bor bu proyekt mening va Jahongir akaning birnchi guruhdagi qilingan proyektimiz edi. Jamoa bo'lib ishlash aaancha oson ekan. Man ko'p yangiliklar kiritishni va bor narsalarni uzgartirishni yoqtiraman, Jahongir aka esa aksincha stabillik va bor rejaga rioya qilishga moyillar. Uzimni fikrimni yetkazish paytida o'ylagan narsamni uzim ham yaxshiroq tushunvolardim va ba'zida aytib turgan paytimda bemani narsaligini ham anglardim.. Agar uzim qilganimda keraksiz bo'lgan 'eksperiment'larga ko'p vaqtimi zoya ketgazgan bo'lardim. Bundan tashqari albatta ish paytida 2 kishi xato topishi tezroq bo'ladi. Jahongir aka bilan oldindan birga o'qiganligimiz uchun bir birimizi tushunish oson bo'ldi.
 Ikkinchi o'rinda foyda bo'lgan narsa bu ish arxitekturasini yanada yaxshiroq tushunvolish bo'ldi. Bu imtihonda qilgan va to'g'irlashga vaqt ketkazgan muammolarni endi kelajakda tez topib yechish mumkin.
 
