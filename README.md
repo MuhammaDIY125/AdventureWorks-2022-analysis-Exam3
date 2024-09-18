@@ -3,11 +3,11 @@
 ![alt text](images/g.gif)
 
 ## Nima xaqida?
-Najot Ta'limni Data Scince guruhida 3 oy imtihoni kuni ham keldi. Imtiohon proyekt ximoya qilishdan iborat bo'lib shu oy SQL va PowerBi larda urgangan narsalarimizni ko'rsatishda iborat edi. Ma'lumot sifatida bizga ko'pchilik ishitkan AdventureWorks (2022v) datsbase berilgan. Imtihonda 3 kishigacha komanda qilish mumkinligi uchun man guruhdoshim Jahongir aka bilan guruh tuzdik va 5 kun ichida bor bilimimizi ko'rsatishga kirishdik.
+Najot Ta'limni Data Scince guruhida 3 oy imtihoni kuni ham keldi. Imtiohon proyekt ximoya qilishdan iborat bo'lib shu oy SQL va PowerBi larda urgangan narsalarimizni ko'rsatishdan iborat edi. Ma'lumot sifatida bizga ko'pchilik eshitkan AdventureWorks (2022v) datsbase berilgan. Imtihonda 3 kishigacha komanda qilish mumkinligi uchun man guruhdoshim Jahongir aka bilan guruh tuzdik va 5 kun ichida bor bilimimizi ko'rsatishga kirishdik.
 
 ## SQL query
 SQL so'rov yozish biz uchun katta muammoga aylandi. Uni yozish uchun boshida 1.5 kun ketgan va uni kelajakda yana ko'p bora uzgartirganmiz. Muammo esa AdventureWorks2022'da edi. Bi juda ham katta va juda ko'p bog'lilarga ega database ekan. Bog'liklilarni urganishimizga anchagina vaqt ketgazdik.
-Bizda birinchi "tugatdik" degan xayol 1ta katta table yaratganimizda bo'ldi va bu bizni birinchi katta xatoyimiz edi. Chuqurlashmagan xolatda shuni aytishim mumkin ki har bir sotuvda bir necha tavarlar bo'lishi mumkin, biz table'da esa qo'shvorganimiz sababli har bir tavar oldida unga tegishlik bo'lgan va qaytarilishi mumkin emas bo'lgan ma'lumotlar turgandi. Muammo kattaligi sababli uni tez ko'rdik va 2ta alohida table larga ajratdik. Shu joyda to'xtatib dashboard yasagani ketdik (xali SQL'ga ko'p marotaba qaytamiz). Yakuniy versiyasini pastdagi rasimda ko'rishiz mumkin:
+Bizda birinchi "tugatdik" degan xayol 1ta katta table yaratganimizda bo'ldi va bu bizni birinchi katta xatoyimiz edi. Chuqurlashmagan xolatda shuni aytishim mumkin ki har bir sotuvdan bir necha tovarlar bo'lishi mumkin, biz table'da esa qo'shvorganimiz sababli har bir tovar oldidan unga tegishlik bo'lgan va qaytarilishi mumkin emas bo'lgan ma'lumotlar turgandi. Muammo kattaligi sababli uni tez ko'rdik va 2ta alohida table larga ajratdik. Shu joyda to'xtatib dashboard yasagani ketdik (xali SQL'ga ko'p marotaba qaytamiz). Yakuniy versiyasini pastdagi rasimdan ko'rishiz mumkin:
 
 OrderHistory:
 
