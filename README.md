@@ -3,9 +3,9 @@
 ![alt text](images/g.gif)
 
 ## Nima xaqida?
-Najot Ta'limni Data Scince guruhida 3-oy imtihoni kuni ham keldi. Imtihon project'ni ximoya qilishdan iborat bo'lib shu oy SQL va PowerBi larda urgangan narsalarimizni ko'rsatishdan iborat edi. Ma'lumot sifatida bizga ko'pchilik eshitkan AdventureWorks (2022v) database berilgan. Imtihonda 3 kishigacha komanda qilish mumkinligi uchun men guruhdoshim Jahongir aka bilan guruh tuzdik va 5 kun ichida bor bilimimizni ko'rsatishga kirishdik.
+Najot Ta'limni Data Scince guruhida 3-oy imtihoni kuni ham keldi. Imtihon project'ni ximoya qilishdan iborat bo'lib shu oy SQL va PowerBI larda urgangan narsalarimizni ko'rsatishdan iborat edi. Ma'lumot sifatida bizga ko'pchilik eshitkan AdventureWorks (2022v) database berilgan. Imtihonda 3 kishigacha komanda qilish mumkinligi uchun men guruhdoshim Jahongir aka bilan guruh tuzdik va 5 kun ichida bor bilimimizni ko'rsatishga kirishdik.
 
-## SQL query
+## SQL so'rov
 SQL so'rov yozish biz uchun katta muammoga aylandi. Uni yozish uchun boshida 1.5 kun ketgan va uni keyinchalik yana ko'p bora uzgartirganmiz. Muammo esa AdventureWorks2022'da edi. Bu juda ham katta va juda ko'p bog'liqlilarga ega database ekan. Bog'liqliklarni urganishimizga anchagina vaqt ketgazdik.
 Bizda birinchi "tugatdik" degan xayol 1ta katta table yasaganimizda bo'ldi va bu bizni birinchi katta xatoyimiz edi. Chuqurlashmagan xolda shuni aytishim mumkinki har bir sotuvda bir necha tovarlar bo'lishi mumkin, biz table'da esa qo'shvorganimiz sababli har bir tovar oldidan unga tegishlik bo'lgan va qaytarilishi mumkin emas bo'lgan ma'lumotlar turgandi. Muammo kattaligi sababli uni tez ko'rdik va 2ta alohida table larga ajratdik. Shu joyda to'xtatib dashboard yasagani ketdik (xali SQL'ga ko'p marotaba qaytamiz). Yakuniy versiyasini pastdagi rasimdan ko'rishiz mumkin:
 
