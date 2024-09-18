@@ -3,7 +3,7 @@
 ![alt text](images/g.gif)
 
 ## Nima xaqida?
-Najot Ta'limni Data Scince guruhida 3-oy imtihoni kuni ham keldi. Imtiohon proyektni ximoya qilishdan iborat bo'lib shu oy SQL va PowerBi larda urgangan narsalarimizni ko'rsatishdan iborat edi. Ma'lumot sifatida bizga ko'pchilik eshitkan AdventureWorks (2022v) database berilgan. Imtihonda 3 kishigacha komanda qilish mumkinligi uchun men guruhdoshim Jahongir aka bilan guruh tuzdik va 5 kun ichida bor bilimimizni ko'rsatishga kirishdik.
+Najot Ta'limni Data Scince guruhida 3-oy imtihoni kuni ham keldi. Imtihon proyektni ximoya qilishdan iborat bo'lib shu oy SQL va PowerBi larda urgangan narsalarimizni ko'rsatishdan iborat edi. Ma'lumot sifatida bizga ko'pchilik eshitkan AdventureWorks (2022v) database berilgan. Imtihonda 3 kishigacha komanda qilish mumkinligi uchun men guruhdoshim Jahongir aka bilan guruh tuzdik va 5 kun ichida bor bilimimizni ko'rsatishga kirishdik.
 
 ## SQL query
 SQL so'rov yozish biz uchun katta muammoga aylandi. Uni yozish uchun boshida 1.5 kun ketgan va uni keyinchalik yana ko'p bora uzgartirganmiz. Muammo esa AdventureWorks2022'da edi. Bu juda ham katta va juda ko'p bog'liqlilarga ega database ekan. Bog'liqliklarni urganishimizga anchagina vaqt ketgazdik.
