@@ -40,4 +40,4 @@ Umuman olganda bu imtihon eng qiziqarlik va foydalik bo'ldi. Bu uchun ustozimga 
 
 ## Mualliflar
 - Muhammadjon Mahmudov
-- Jahongir Sapayevz
+- Jahongir Sapayev
